@@ -14,5 +14,6 @@ Historical correlation view: does sentiment spike actually precede price moves f
 Stonkers will be backed to its token on Noxa, allowing users to use "STONKERS" tokens to purchase coins on the platform. Intitially we captured around 18% of the supply, which will be given away once the leaderboard initiatives are announced. Half of the fees generated from the token will be put into the liquidity pool to dampen sell pressure/impact, with the other half of fees being put straight back into the token.
 
 
-<img width="1280" height="640" alt="stonkers_banner" src="https://github.com/user-attachments/assets/57d7ed29-a138-4722-a270-689835022a73" />
+<img width="1280" height="640" alt="stonkers_banner_v3" src="https://github.com/user-attachments/assets/97881ee4-22d7-4ad1-8b7e-73f808e1b026" />
+
 
