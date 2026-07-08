@@ -1,0 +1,22 @@
+{
+  "name": "Stonkers",
+  "version": "0.1.0",
+  "description": "Real-time retail sentiment tracking across stocks and crypto.",
+  "main": "tracker.js",
+  "scripts": {
+    "start": "node tracker.js",
+    "track": "node tracker.js",
+    "reddit": "node fetch-reddit.js"
+  },
+  "keywords": [
+    "sentiment",
+    "crypto",
+    "stocks",
+    "trading",
+    "reddit"
+  ],
+  "license": "MIT",
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
