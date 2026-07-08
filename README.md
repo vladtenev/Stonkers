@@ -3,8 +3,7 @@ Real-time retail sentiment tracking across stocks and crypto, built by degens fo
 
 Retail traders move markets: meme stocks, memecoins, and momentum plays all start the same way: a ticker starts trending somewhere before the price catches up. 
 Stonkers tracks that signal.
-Stonkers aggregates real-time chatter across Reddit, X/Twitter, and Discord to surface sentiment shifts, trending tickers, and community conviction before they show up on a candlestick chart. Think of it as a social early-warning system for retail-driven price action,![Uploading stonkers_icon.svg…]()
- built for people who trade on vibes and want to quantify the vibes.
+Stonkers aggregates real-time chatter across Reddit, X/Twitter, and Discord to surface sentiment shifts, trending tickers, and community conviction before they show up on a candlestick chart. Think of it as a social early-warning system for retail-driven price action, built for people who trade on vibes and want to quantify the vibes.
 
 Core features (v1 roadmap):
 Live ticker mention volume + sentiment scoring across social platforms
