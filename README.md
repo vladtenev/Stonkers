@@ -11,4 +11,6 @@ Live ticker mention volume + sentiment scoring across social platforms
 Trending/breakout detection (spike alerts when a ticker's mention rate abnormally accelerates)
 Cross-asset support — stocks and crypto in one feed
 Historical correlation view: does sentiment spike actually precede price moves for a given ticker?
+
+
 <img width="400" height="400" alt="stonkers_icon" src="https://github.com/user-attachments/assets/ad6c0514-56b9-4aa9-92a0-1e60a6c6fda4" />
