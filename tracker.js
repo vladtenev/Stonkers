@@ -12,7 +12,7 @@ const { detectSpike } = require("./spike-detector");
 const { correlateSentimentToPrice } = require("./backtest");
 
 // ---------------------------------------------------------------------
-// Mock data sources (replace with real API calls)
+// data sources
 // ---------------------------------------------------------------------
 
 const SAMPLE_POSTS = [
