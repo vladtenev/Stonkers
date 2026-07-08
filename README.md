@@ -12,7 +12,7 @@ Trending/breakout detection (spike alerts when a ticker's mention rate abnormall
 Cross-asset support — stocks and crypto in one feed
 Historical correlation view: does sentiment spike actually precede price moves for a given ticker?
 
-Stonkers will be backed to its token on Noxa, allowing users to user "STONKERS" tokens to purchase coins on the platform.
+Stonkers will be backed to its token on Noxa, allowing users to user "STONKERS" tokens to purchase coins on the platform. Intitially we will capture a large supply, which will be given away once the leaderboard initiatives are announced.
 
 
 
