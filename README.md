@@ -1,3 +1,4 @@
+<img width="2720" height="1200" alt="stonkers_logo" src="https://github.com/user-attachments/assets/d3c2ac4b-b343-4b4c-9734-1065f6cbdfd0" />
 # Stonkers
 real-time retail sentiment tracking across stocks and crypto, built by degens for degens.
 
